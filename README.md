@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -12,6 +13,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
