@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
@@ -41,8 +42,10 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
