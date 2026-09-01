@@ -5,4 +5,6 @@ class Solution:
             if nums[i]>nums[(i+1) % len(nums)]:
                 count+=1
             
-        return count<=1
+        if count<=1:
+            return True
+        return False
