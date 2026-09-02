@@ -24,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -70,5 +72,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
