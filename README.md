@@ -47,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -74,4 +75,8 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
