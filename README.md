@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
