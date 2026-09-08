@@ -22,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
