@@ -60,6 +60,7 @@
 | [0075-sort-colors](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +84,7 @@
 | [0015-3sum](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +95,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -128,4 +132,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ramnadhreddy868/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
