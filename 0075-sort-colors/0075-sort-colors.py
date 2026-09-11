@@ -9,8 +9,8 @@ class Solution:
         while mid<=high:
             if nums[mid]==0:
                 nums[low],nums[mid]=nums[mid],nums[low]
-                low+=1
                 mid+=1
+                low+=1
             elif nums[mid]==1:
                 mid+=1
             elif nums[mid]==2:
@@ -18,6 +18,6 @@ class Solution:
                 high-=1
                 if nums[mid]==0:
                     nums[low],nums[mid]=nums[mid],nums[low]
-                    low+=1
                     mid+=1
+                    low+=1
         return nums
