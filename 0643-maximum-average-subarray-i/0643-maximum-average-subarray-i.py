@@ -3,7 +3,7 @@ class Solution:
         w=sum(nums[:k])
         maxsum=w
         for i in range(k,len(nums)):
-            w=w-nums[i-k]+nums[i]
+            w=w+nums[i]-nums[i-k]
             if w>maxsum:
                 maxsum=w
         return maxsum/k
