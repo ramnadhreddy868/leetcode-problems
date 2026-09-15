@@ -5,8 +5,7 @@ class Solution:
         if w>=k * threshold:
             count+=1
         for i in range(k,len(arr)):
-            w=w+arr[i]-arr[i-k]
-            
+            w+=arr[i]-arr[i-k] 
             if w>=k * threshold:
                 count+=1
         return count
